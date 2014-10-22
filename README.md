@@ -1,7 +1,7 @@
 anglicize
 =========
 
-Inspired from `[azer/anglicize](https://github.com/azer/anglicize)`.
+Inspired from [azer/anglicize](https://github.com/azer/anglicize).
 Converted a bower project
 
 ## Install
