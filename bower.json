@@ -1,12 +1,13 @@
 {
   "name": "anglicize",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "authors": [
     "Salim KAYABAŞI <salim.kayabasi@gmail.com>"
   ],
   "description": "anglicize your words - anglicize for bower",
   "main": [
-    "dist/*"
+    "dist/anglicize.js",
+    "dist/anglicize.min.js"
   ],
   "keywords": [
     "anglicize"
