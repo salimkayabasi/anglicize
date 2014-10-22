@@ -1,11 +1,3 @@
-
-### Usage
-
-```js
-anglicize('ÂÇİĞÖŞÜÑ âçığöşüñ');
-//=> ACIGOSUN acigosun
-```
-
 anglicize
 =========
 
