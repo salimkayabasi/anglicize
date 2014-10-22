@@ -1,0 +1,21 @@
+{
+  "name": "anglicize",
+  "version": "0.0.1",
+  "authors": [
+    "Salim KAYABAŞI <salim.kayabasi@gmail.com>"
+  ],
+  "description": "anglicize your words - anglicize for bower",
+  "main": [
+    "dist/*"
+  ],
+  "keywords": [
+    "anglicize"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "test",
+    "src"
+  ]
+}
