@@ -11,15 +11,15 @@ You can install this package either with `npm` or with `bower`.
 ### npm
 
 ```shell
-npm install anglicize
+npm install anglicize --save
 ```
 
-This shell command will be fetch `azer/anglicize`
+This shell command will fetch `azer/anglicize`
 
 ### bower
 
 ```shell
-bower install anglicize
+bower install anglicize --save
 ```
 
 Add a `<script>` to your `index.html`:
