@@ -1,6 +1,8 @@
 anglicize
 =========
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/salimkayabasi/anglicize.svg)](https://greenkeeper.io/)
+
 Inspired from [azer/anglicize](https://github.com/azer/anglicize).
 Converted a bower project
 
